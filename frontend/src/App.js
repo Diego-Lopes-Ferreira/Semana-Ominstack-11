@@ -1,25 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Routes from './routes';
+import './main.css'
+
+//JSX = JavaScript XML
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         oi pai
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Qualquer outra coisa
-        </a>
-      </header>
-    </div>
+    <Routes />
   );
 }
 
