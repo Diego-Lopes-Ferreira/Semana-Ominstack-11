@@ -6,17 +6,18 @@
 
 
 ## Features:
-* Connect heroes with NGOs
 * Conect heroes via mobile app
 * Connect NGO's via website and store their incidents
 * Full controll of wich incidents are avaiable for heroes or not
 * **Connect heroes with NGOs**
 
+
 ## Installation
-Android or IOS:
-* Download the windows 10 instaler in this 
+Wait for release 
+
 
 ## Usage 
+Wait for release
 
 
 ## Development setup
@@ -62,7 +63,12 @@ Inside React Native:
 * babel-preset-expo version ~8.0.0
 
 
-## History
+## Release History
+* 1.0.0
+    * (planned) 27/03/2020
+
+
+## Dev History
 * 0.0.1
     * 23/03/2020 - Playing with the tecnologies used: ReactJS and NodeJS
 * 0.0.2
@@ -72,13 +78,9 @@ Inside React Native:
 * 0.0.4
     * 26/03/2020 - Mobile app done (It's so great seeing everything working)
 
-## Release History
-* 1.0.0
-    * (planned) 27/03/2020
 
 
-
-## Meta
+## Student
 
 Diego Lopes Ferreira – [@Twitter](https://twitter.com/Diego45731776) – [@Instagram](https://www.instagram.com/diego.lopes.f/)
 Distributed under the MIT license. See [License.md](LICENSE.md) for more information.
