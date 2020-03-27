@@ -1,6 +1,7 @@
 # Semana-Ominstack-11
-Be The Hero
 
+![Be The Hero](/assets/logo.svg)
+![Be The Hero](/assets/heroes.png)
 
 
 ## Features:
@@ -25,7 +26,13 @@ For the dev setup:
 * @testing-library/react version: 9.3.2
 * @testing-library/user-event version: 7.1.2
 
-Inside react:
+Inside NodeJS:
+* cors version: 2.8.5
+* express version: 4.17.1
+* knex version: 0.20.13
+* sqlite3 version: 4.1.1 - DataBase
+
+Inside ReactJS:
 * axios version: 0.19.2
 * react version: 16.13.1
 * react-dom version: 16.13.1
@@ -33,20 +40,40 @@ Inside react:
 * react-router-dom version: 5.1.2
 * react-scripts version: 3.4.1
 
-Inside node:
-* cors version: 2.8.5
-* express version: 4.17.1
-* knex version: 0.20.13
-* sqlite3 version: 4.1.1 - DataBase
+Inside React Native:
+* @react-native-community/masked-view version 0.1.5
+* @react-navigation/native" version 5.1.3
+* @react-navigation/stack" version 5.2.6
+* axios version 0.19.2
+* expo version 36.0.0
+* expo-constants version ~8.0.0
+* expo-mail-composer version ^8.0.0
+* intl version ^1.2.5
+* react version ~16.9.0
+* react-dom version ~16.9.0
+* react-native version https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz
+* react-native-gesture-handler version ~1.5.0
+* react-native-reanimated version ~1.4.0
+* react-native-safe-area-context version 0.6.0
+* react-native-screens version 2.0.0-alpha.12
+* react-native-web version ~0.11.7
+* @babel/core version ^7.0.0
+* babel-preset-expo version ~8.0.0
 
 
-## Release History
+## History
 * 0.0.1
     * 23/03/2020 - Playing with the tecnologies used: ReactJS and NodeJS
 * 0.0.2
     * 24/03/2020 - BackEnd done
 * 0.0.3
     * 25/03/2020 - FrontEnd done (It's beautiful 🚀)
+* 0.0.4
+    * 26/03/2020 - Mobile app done (It's so great seeing everything working)
+
+## Release History
+* 1.0.0
+    * (planned) 27/03/2020
 
 
 
