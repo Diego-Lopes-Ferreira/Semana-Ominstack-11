@@ -77,6 +77,8 @@ Inside React Native:
     * 25/03/2020 - FrontEnd done (It's beautiful 🚀)
 * 0.0.4
     * 26/03/2020 - Mobile app done (It's so great seeing everything working)
+* 0.0.5
+    * 27/03/2020 - Final of the dev version
 
 
 
