@@ -85,6 +85,6 @@ Inside React Native:
 ## Student
 
 Diego Lopes Ferreira – [@Twitter](https://twitter.com/Diego_simSouEu) – [@Instagram](https://www.instagram.com/diego.lopes.f/)
-Distributed under the MIT license. See [License.md](LICENSE) for more information.
+Distributed under the MIT license. See [License](LICENSE) for more information.
 
 [github.com/Diego-Lopes-Ferreira](https://github.com/Diego-Lopes-Ferreira/)
