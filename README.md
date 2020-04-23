@@ -26,12 +26,12 @@ Wait for release
 ### Managing your incidents
 > Managing your incidents is easy
 
-![WebApp](/assets/WebApp.mp4)
+![WebApp](/assets/WebApp.gif)
 
 ### Being the hero, via mobile app
 > Choose your case, click on the whatsapp or e-mail button and BE THE HERO!
 
-![Mobile](/assets/mobile.mp4)
+![Mobile](/assets/)
 
 
 ## Development setup
