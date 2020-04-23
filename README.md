@@ -17,7 +17,21 @@ Wait for release
 
 
 ## Usage 
-Wait for release
+### Sign Up:
+> To sing up the as an NGO you will need to provide a valid e-mail, a whatsapp number and the location
+
+### Login and Creating an Incident
+> The incident will require a title (be creative), a description to what happend and the expected value
+
+### Managing your incidents
+> Managing your incidents is easy
+
+![WebApp](/assets/WebApp.mp4)
+
+### Being the hero, via mobile app
+> Choose your case, click on the whatsapp or e-mail button and BE THE HERO!
+
+![Mobile](/assets/mobile.mp4)
 
 
 ## Development setup
@@ -65,7 +79,7 @@ Inside React Native:
 
 ## Release History
 * 1.0.0
-    * (planned) 27/03/2020
+    * 27/03/2020
 
 
 ## Dev History
