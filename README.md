@@ -17,21 +17,18 @@ Wait for release
 
 
 ## Usage 
-### Sign Up:
-> To sing up the as an NGO you will need to provide a valid e-mail, a whatsapp number and the location
+### Sign Up, 
+### Log in and create an incident
+### Manage your incidents
+ To sing up the as an NGO you will need to provide a valid e-mail, a whatsapp number and the location. The incident will require a title (be creative), a description to what happend and the expected value
 
-### Login and Creating an Incident
-> The incident will require a title (be creative), a description to what happend and the expected value
-
-### Managing your incidents
-> Managing your incidents is easy
 
 ![WebApp](/assets/WebApp.gif)
 
 ### Being the hero, via mobile app
-> Choose your case, click on the whatsapp or e-mail button and BE THE HERO!
+Choose your case, click on the whatsapp or e-mail button and BE THE HERO!
 
-![Mobile](/assets/)
+![Mobile](/assets/Mobile.gif)
 
 
 ## Development setup
