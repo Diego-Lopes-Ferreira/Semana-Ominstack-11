@@ -26,7 +26,7 @@ Wait for release
 ![WebApp](/assets/WebApp.gif)
 
 ### Being the hero, via mobile app
-Choose your case, click on the whatsapp or e-mail button and BE THE HERO!
+Choose your case, click on the whatsapp or e-mail button and **BE THE HERO!**
 
 ![Mobile](/assets/Mobile.gif)
 
